@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yixiao Fang (Jimmy)</h1>
 <h3 align="center">An Undergraduate Roboticist</h3>
 
-- 🌱 I’m currently working on **Robotics Perception and Simulaiton**
+- 🌱 I’m currently working on **Robotics Perception and Simulation**
 
 - 📫 How to reach me **yixiaof2@illinois.edu**
 
