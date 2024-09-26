@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Yixiao Fang (Jimmy)</h1>
-<h3 align="center">An Undergraduate Roboticist</h3>
+<h3 align="center">A Passionate Roboticist</h3>
 
 - 🌱 I’m currently working on **Robotics Perception and Simulation**
 
 - 📫 How to reach me **yixiaof2@illinois.edu**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/12AUf75pr5y9o91WLY8mtx0QalGxowY95/view?usp=sharing](https://drive.google.com/file/d/12AUf75pr5y9o91WLY8mtx0QalGxowY95/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/15Cp2Zj-ps0jzAFyFiaJ3iLam8C3yC_qd/view?usp=sharing](https://drive.google.com/file/d/15Cp2Zj-ps0jzAFyFiaJ3iLam8C3yC_qd/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
