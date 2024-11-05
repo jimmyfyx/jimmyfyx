@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **yixiaof2@illinois.edu**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ZeTxprSUoMoQ5hWJr43ZD2YkLp-acGIB/view?usp=sharing)
+- 📄 Know about my experiences [Personal Website](https://jimmyfyx.github.io//)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
