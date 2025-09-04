@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Yixiao Fang (Jimmy)</h1>
-<h3 align="center">A Passionate Roboticist</h3>
+<h1 align="center">Hi 👋, I'm Yixiao (Jimmy) Fang</h1>
+<h3 align="center">An enthusiast in robotics & AI</h3>
 
-- 🌱 I’m currently working on **Robotics Perception and Simulation**
+- 🌱 My interest is about **Robotic Perception for Safe Autonomy**
 
 - 📫 How to reach me **yixiaof2@illinois.edu**
 
